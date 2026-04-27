@@ -34,7 +34,6 @@
                 <option value="man">男性</option>
                 <option value="women">女性</option>
             </select>
-
             <input type="submit" id="submit" name="submit">
         </div>
     </form>

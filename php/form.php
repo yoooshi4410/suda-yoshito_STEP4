@@ -28,6 +28,7 @@
             <label for="question">質問：</label>
             <input type="text" id="question" name="question">
 
+            
             <label for="gender">性別：</label>
             <select id="gender" name="gender">
                 <option value="">選択してください</option>
